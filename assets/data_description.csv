@@ -1,0 +1,30 @@
+Variable,Description,Units of measurement,Variable type
+EXP,Consumer spending,"Russian ruble
+",Quantitative
+EDU,Level of education,"Score:
+0 - Not defined
+1 - Does not have a basic general education
+2 - Basic general education
+3 - Secondary general education
+4 - Secondary professional education
+5 - Higher professional education
+",Qualitative
+CHILD,Grouping by the number of children under 16 in the household (3 groups),"1 - No children.
+2 - Up to two children under the age of 16 in the family
+3 - There are three or more children in the family
+",Quantitative
+FIN,Increase in financial assets,"Russian ruble
+",Quantitative
+NATUR,Natural income,"Russian ruble
+",Quantitative
+SELF,Self-assessment of the financial situation of the household,"Score:
+-7 - Refuse to answer
+1 - Not enough money even for food
+2 - Enough money for food, but difficulties to buy clothes and pay for housing and utilities
+3 - Enough money for food and clothing, but cannot afford to buy necessary durable goods (TV, fridge, etc.)
+4 - Can afford to buy food, clothing, necessary durables, but not enough money to buy a new car
+5 - Can afford to buy food, clothing, necessary durable goods, but not enough money to buy an apartment or a summer house
+6 - Enough money to buy everything needed
+",Qualitative
+TAX,"Taxes, fees, payments","Russian ruble
+",Quantitative
